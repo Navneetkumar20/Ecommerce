@@ -11,6 +11,11 @@
         {id:"child"},
        [ React.createElement("h1",{},"Hero"),
         React.createElement("h2",{},"Hero"),
+    ]),React.createElement(
+        "div",
+        {id:"child"},
+       [ React.createElement("h1",{},"Hero"),
+        React.createElement("h2",{},"baba"),
     ]),
    ]);
   console.log(parent);
